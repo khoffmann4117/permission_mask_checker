@@ -1,6 +1,6 @@
 [project]
 name = "permission-mask-checker"
-version = "0.1.0"
+version = "0.1.1"
 description = "Checks whether a path's permission bits satisfy a required mask like group-writable or world-readable."
 requires-python = ">=3.10"
 dependencies = []
